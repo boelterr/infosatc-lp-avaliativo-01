@@ -7,4 +7,4 @@ n4 = float(input("Digite o quarto valor: "))
 
 m = ((n1+n2+n3+n4)/4)#Entrada da variavel m com sua equação correspondente
 
-print("O valor da media aritimetica é {}" .format(m))#Print na tela mostrando o resultado
+print("O valor da media aritimetica é {}" .format(m))#Print na tela mostrando o resultado1
